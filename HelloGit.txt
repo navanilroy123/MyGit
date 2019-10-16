@@ -1,6 +1,10 @@
 //This is my complete java application file...Hello Git...Hello world
 
 class HelloGit{
+
+	void myMethod(){
+		sysout("MyMethod");
+	}
 	public static void main(String args[]){
 
 		System.out.println("This will print Java Application Welcome to git");
