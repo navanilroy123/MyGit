@@ -2,7 +2,8 @@
 
 class HelloGit{
 
-	static String myMethod(){
+
+	public static String myMethod(String str){
 		return "MyMethod";
 	}
 	public static void main(String args[]){
